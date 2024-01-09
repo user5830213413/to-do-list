@@ -25,6 +25,6 @@ pip install -r requirements.txt
 
 ## Технологии
 
-- Flask - веб-фреймворк для Python.
-- Flask-RESTful - расширение Flask для создания RESTful API.
-- SQLAlchemy - ORM для работы с базой данных.
+- Flask
+- Flask-RESTful
+- flask-SQLAlchemy - ORM для работы с базой данных.
