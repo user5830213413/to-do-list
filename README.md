@@ -25,7 +25,6 @@ pip install -r requirements.txt
 
 ## Технологии
 
-<<<<<<< HEAD
 - Flask
 - Flask-RESTful
 - flask-SQLAlchemy - ORM для работы с базой данных.
