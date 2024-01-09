@@ -25,6 +25,12 @@ pip install -r requirements.txt
 
 ## Технологии
 
+<<<<<<< HEAD
 - Flask
 - Flask-RESTful
 - flask-SQLAlchemy - ORM для работы с базой данных.
+=======
+- Flask - веб фреймворк.
+- Flask-RESTful - для создания RESTful API.
+- Flask-SQLAlchemy - ORM для работы с базой данных.
+>>>>>>> 6d83336bfd7ac5d97ac9c1b7dabf332da05ef638
